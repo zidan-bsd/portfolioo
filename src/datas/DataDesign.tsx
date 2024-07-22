@@ -8,6 +8,34 @@ export interface DesignData {
 
 const PortfolioDesign: DesignData[] = [
   {
+    id: "110",
+    name: "Package Box",
+    for: "",
+    type: "Package",
+    img: "https://drive.google.com/file/d/1sCDM-ZXFStmdxiiU4Mov54wosep3o_ZN/view?usp=sharing",
+  },
+  {
+    id: "107",
+    name: "Fashion Tag",
+    for: "",
+    type: "Fashion",
+    img: "https://drive.google.com/file/d/1FDIWre__Pa2o_a3j4W7iA8s5NR29G3gW/view?usp=sharing",
+  },
+  {
+    id: "108",
+    name: "Cup Package",
+    for: "",
+    type: "Package",
+    img: "https://drive.google.com/file/d/1GSuNT77RFbMIldPKpL6_PArXUiiJjwIU/view?usp=sharing",
+  },
+  {
+    id: "109",
+    name: "Coffee Package",
+    for: "",
+    type: "Package",
+    img: "https://drive.google.com/file/d/1FEWcjx5W6cU0uDJXobPfz61vUAwhX5kw/view?usp=sharing",
+  },
+  {
     id: "111",
     name: "Poster Fashion",
     for: "",
