@@ -1,3 +1,8 @@
+import packagebox from "../assets/package box.png";
+import fashiontag from "../assets/Fashion Tag.png";
+import cuppackage from "../assets/cup package.png";
+import coffeepackage from "../assets/coffee pacage.png";
+
 export interface DesignData {
   id: string;
   name: string;
@@ -12,28 +17,28 @@ const PortfolioDesign: DesignData[] = [
     name: "Package Box",
     for: "",
     type: "Package",
-    img: "https://drive.google.com/file/d/1sCDM-ZXFStmdxiiU4Mov54wosep3o_ZN/view?usp=sharing",
+    img: packagebox,
   },
   {
     id: "107",
     name: "Fashion Tag",
     for: "",
     type: "Fashion",
-    img: "https://drive.google.com/file/d/1FDIWre__Pa2o_a3j4W7iA8s5NR29G3gW/view?usp=sharing",
+    img: fashiontag,
   },
   {
     id: "108",
     name: "Cup Package",
     for: "",
     type: "Package",
-    img: "https://drive.google.com/file/d/1GSuNT77RFbMIldPKpL6_PArXUiiJjwIU/view?usp=sharing",
+    img: cuppackage,
   },
   {
     id: "109",
     name: "Coffee Package",
     for: "",
     type: "Package",
-    img: "https://drive.google.com/file/d/1FEWcjx5W6cU0uDJXobPfz61vUAwhX5kw/view?usp=sharing",
+    img: coffeepackage,
   },
   {
     id: "111",
